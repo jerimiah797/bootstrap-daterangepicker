@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'dangrossman:bootstrap-daterangepicker',
+  name: 'jham:bootstrap-daterangepicker',
   version: '2.1.13',
   summary: 'Date range picker component for Bootstrap',
   git: 'https://github.com/dangrossman/bootstrap-daterangepicker.git',
